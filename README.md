@@ -1,4 +1,4 @@
-# Stripe Subscription Management
+# (work in progress) Stripe Subscription Management
 
 This project provides a **Stripe-powered subscription management system** using Django. It allows customers to subscribe to various plans, handle payments via Stripe, and manage their subscriptions efficiently.
 
@@ -16,6 +16,13 @@ This project provides a **Stripe-powered subscription management system** using 
 - **Stripe API** - Payment processing
 - **PostgreSQL / MySQL** (Recommended) - Database
 - **Docker (Optional)** - Containerization
+
+---
+
+## Remaining Items
+
+- stripe webhook setup
+- Subscription API
 
 ---
 
